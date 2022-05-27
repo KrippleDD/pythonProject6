@@ -29,7 +29,7 @@ s1=0
 
 while x!=0:
 
-x=int(input())
+    x=int(input())
 
 if (x%2)==0:
 
